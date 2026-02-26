@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi! I'm Abbil Rizki Abdillah, a Computer Science student at Universitas Sumatera Utara (USU).<br>I’m passionate about C, C++, Laravel, UI/UX design, animation, social media, and video editing.<br>I love creating creative solutions, building efficient applications, and learning new technologies.<br>Currently, I’m exploring full-stack web development and interactive UI/UX projects, while sharing my knowledge and contributing to open-source.
 
+<div align="center">
+  <img src="pacman-contributions.svg" alt="Pacman Game" width="100%"/>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abbil.ra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abbil-rizki-abdillah-382934356) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@BgZahran) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zahranmieayam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:araabbil@gmail.com) 
